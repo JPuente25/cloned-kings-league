@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cloned-kings-league/static/css/main.c9ab1b08.css",
+    "main.js": "/cloned-kings-league/static/js/main.85fdeff5.js",
+    "static/media/KL_landscape.svg": "/cloned-kings-league/static/media/KL_landscape.bc89503c11fa3ca2983f19b60bed36c8.svg",
+    "static/media/logo-oficial.svg": "/cloned-kings-league/static/media/logo-oficial.4e30290f724bf6226d2794c28ab22928.svg",
+    "static/media/slick.svg": "/cloned-kings-league/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/cloned-kings-league/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/cloned-kings-league/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/cloned-kings-league/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/cloned-kings-league/index.html",
+    "static/media/twitter.svg": "/cloned-kings-league/static/media/twitter.0b7503dd665ec758237e2195572b107d.svg",
+    "static/media/instagram.svg": "/cloned-kings-league/static/media/instagram.eba80cc6945c11a4200178585e76cc66.svg",
+    "static/media/youtube.svg": "/cloned-kings-league/static/media/youtube.59e9615ecbd3c28fc51d1a7297f1b8b1.svg",
+    "static/media/Marca-M.svg": "/cloned-kings-league/static/media/Marca-M.8a0eec1bd9290ea9b624bdfee0bd611e.svg",
+    "static/media/Marca-M--gray.svg": "/cloned-kings-league/static/media/Marca-M--gray.8874704606cc9bf2d0e6a39431508263.svg",
+    "static/media/twitch.svg": "/cloned-kings-league/static/media/twitch.0c0541779a8b33867519fcc6cadfc2d4.svg",
+    "static/media/tiktok.svg": "/cloned-kings-league/static/media/tiktok.f094709db627b282a06abbd05ea9ccf4.svg",
+    "main.c9ab1b08.css.map": "/cloned-kings-league/static/css/main.c9ab1b08.css.map",
+    "main.85fdeff5.js.map": "/cloned-kings-league/static/js/main.85fdeff5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9ab1b08.css",
+    "static/js/main.85fdeff5.js"
+  ]
+}
