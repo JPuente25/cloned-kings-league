@@ -69,9 +69,6 @@ const Footer = () => {
          <LinkSection>
             <ul className="pages-link">
                <li>
-                  <Link to="/">Faqs</Link>
-               </li>
-               <li>
                   <Link to="/draft">Draft</Link>
                </li>
                <li>

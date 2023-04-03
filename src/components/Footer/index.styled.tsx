@@ -88,20 +88,33 @@ export const LinkSection = styled.div`
    }
 
    ul.pages-link {
+      width: 100%;
       font-size: 13.2px;
       font-weight: normal;
-      display: grid;
-      grid-template-columns: repeat(3, 33%);
+      display: flex;
+      align-items: center;
+      justify-content: end;
+      flex-wrap: wrap;
+      gap: 15px;
 
       li {
-         padding: 8px 50px;
+         padding: 8px 5px;
          white-space: nowrap;
       }
 
+      @media only screen and (max-width: 960px) {
+         justify-content: center;
+      }
+
       @media only screen and (max-width: 640px) {
-         grid-template-columns: 1fr;
          text-align: center;
       }
+
+      @media only screen and (max-width: 480px) {
+         flex-direction: column;
+         gap: 10px;
+      }
+
    }
 
    ul.legal-link {
