@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-const delayInterval = 1.5;
+const delayInterval = 3; //speed
 const time = 14 * delayInterval; //(14: number of sponsors ) * delayInterval
 const windowWidth = window.innerWidth;
 const carouselWidth = windowWidth * 0.4; //0.4: 40% of window width: Carousel witdth
