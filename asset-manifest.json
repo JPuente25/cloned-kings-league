@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cloned-kings-league/static/css/main.c9ab1b08.css",
-    "main.js": "/cloned-kings-league/static/js/main.f32052bf.js",
+    "main.js": "/cloned-kings-league/static/js/main.88ce81b9.js",
     "static/media/KL_landscape.svg": "/cloned-kings-league/static/media/KL_landscape.bc89503c11fa3ca2983f19b60bed36c8.svg",
     "static/media/logo-oficial.svg": "/cloned-kings-league/static/media/logo-oficial.4e30290f724bf6226d2794c28ab22928.svg",
     "static/media/slick.svg": "/cloned-kings-league/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -17,10 +17,10 @@
     "static/media/twitch.svg": "/cloned-kings-league/static/media/twitch.0c0541779a8b33867519fcc6cadfc2d4.svg",
     "static/media/tiktok.svg": "/cloned-kings-league/static/media/tiktok.f094709db627b282a06abbd05ea9ccf4.svg",
     "main.c9ab1b08.css.map": "/cloned-kings-league/static/css/main.c9ab1b08.css.map",
-    "main.f32052bf.js.map": "/cloned-kings-league/static/js/main.f32052bf.js.map"
+    "main.88ce81b9.js.map": "/cloned-kings-league/static/js/main.88ce81b9.js.map"
   },
   "entrypoints": [
     "static/css/main.c9ab1b08.css",
-    "static/js/main.f32052bf.js"
+    "static/js/main.88ce81b9.js"
   ]
 }
