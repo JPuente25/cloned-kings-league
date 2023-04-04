@@ -13,7 +13,6 @@ import { getTeamsData } from '../../features/KingsLeague/homeSlice';
 import getTeamsQualification from '../../utils/functions/getTeamsQualification';
 
 const TeamDetails = () => {
-   const { key } = useLocation();
    const params = useParams();
    const teamNameKey = params.teamName!;
    const dispatch = useAppDispatch();
@@ -25,11 +24,13 @@ const TeamDetails = () => {
    const teamData = teamsData.find((item) => item.key === teamNameKey)!;
 
    useEffect(() => {
-      window.document.title = `${teamData.name} - Kings League`;
+      if (teamData) {
+         window.document.title = `${teamData.name} - Kings League`;
+      }
       window.scrollTo(0, 0);
       dispatch(getTeamsData());
       // eslint-disable-next-line react-hooks/exhaustive-deps
-   }, [key]);
+   }, [teamData]);
 
    return (
       <main>
